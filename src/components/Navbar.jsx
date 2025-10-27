@@ -141,7 +141,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className="bg-liner-to-br bg-[#f7f9fe] py-3 md:px-29 ">
+    <header className="fixed top-0 left-0 z-50 w-full bg-liner-to-br bg-[#f7f9fe] py-3 md:px-29 ">
       <div className="h-18 items-center flex justify-between">
         
         <img src={logo} className="px-4 w-50" alt="Logo"/>

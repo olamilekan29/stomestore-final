@@ -36,7 +36,7 @@ const Features = () => {
         <div className="md:mx-30 ">
         <div className="bg-[#ff8057] h-[50px] mb-7 w-[50px] leading-10 text-center fill-white rounded-sm text-2xl flex items-center justify-center"> <MdGroups className=""/></div>
          <h2 className="text-xl text-[#343a40] pb-5">Reliable Services</h2>
-         <h3 className="text-[15px] text-[#9da9bb] pb-5">Sed perspiciatis unde omnis natus error voluptatem accusantium doloremque laudantium totam rem aperiam eaque ipsa quae ab illo excepturi sint occaecati cupiditate architecto.</h3>
+         <h3 className="text-[15px] text-[#9da9bb] pb-5">We bring buyers and sellers together in one trusted space. Whether you’re looking to shop or sell, our platform makes it easy to connect, trade, and grow—securely and efficiently.</h3>
          <a className="text-[18px] text-[#ff8057] cursor-pointer">Read More →<span className="ml-2 "></span></a>
         </div>
          <div>
@@ -54,7 +54,7 @@ const Features = () => {
         <div>
         <div className="bg-[#ff8057] h-[50px] mb-7 w-[50px] leading-10 text-center fill-white rounded-sm text-2xl flex items-center justify-center"> <FaChartLine className=""/></div>
          <h2 className="text-xl text-[#343a40] pb-5">Linking Buyers to Sellers</h2>
-         <h3 className="text-[15px] text-[#9da9bb] pb-5">At vero eos accusamus iusto odio soluta nobis est eligendi optio dignissimos ducimus qui blanditiis praesentium as voluptatum deleniti corrupti quos dolores molestias occaecati..</h3>
+         <h3 className="text-[15px] text-[#9da9bb] pb-5">We connect buyers and sellers in one trusted space — making it easy to trade, communicate, and grow together.</h3>
          <a className="text-[18px] text-[#ff8057] cursor-pointer">Read More →<span className="ml-2 "></span></a>
         </div>
 

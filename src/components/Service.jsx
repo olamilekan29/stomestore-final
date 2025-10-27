@@ -34,32 +34,32 @@ const Service = () => {
     {
       icon: <FaHeadset className=" mb-4 transition-all duration-300 ease-in-out stroke-orange-500 group-hover:stroke-white group-hover:fill-white"/>,
       title: 'Modern Store',
-      description: 'Et harum quidem rerum facilis expedita distinctio nam libero tempore cum quibusdam nobis.'
+      description: 'A sleek, easy-to-use marketplace built for today’s shoppers and sellers. Shop, sell, and grow — all in one place.'
     },
     {
       icon: <BsTools className=" mb-4 transition-all duration-300 ease-in-out stroke-orange-500 group-hover:stroke-white group-hover:fill-white"/>,
       title: 'Buy and Sell',
-      description: 'Distinctio nam libero tempore cum quibusdam nobis et harum quidem rerum facilis expedita.'
+      description: 'Whether you’re buying or selling, we make every transaction fast, fair, and secure.'
     },
     {
       icon: <FcSelfServiceKiosk className=" mb-4 transition-all duration-300 ease-in-out stroke-orange-500 group-hover:stroke-white group-hover:fill-white"/>,
       title: 'Quick Delivery',
-      description: 'Nam libero tempore cum quibusdam nobis. Et harum quidem rerum facilis expedita distinctio.'
+      description: 'We value your time — that’s why we ensure every order reaches you quickly and safely.'
     },
     {
       icon: <IoTrophyOutline className=" mb-4 transition-all duration-300 ease-in-out stroke-orange-500 group-hover:stroke-white group-hover:fill-white"/>,
       title: 'Best Customer Service',
-      description: 'Nam libero tempore cum quibusdam nobis. Et harum quidem rerum facilis expedita distinctio.'
+      description: 'Our team is always ready to help. From inquiries to after-sales support, we’ve got you covered.'
     },
     {
       icon: <IoBulbOutline  className=" mb-4 transition-all duration-300 ease-in-out stroke-orange-500 group-hover:stroke-white group-hover:fill-white"/>,
       title: 'Branding Identity',
-      description: 'Nam libero tempore cum quibusdam nobis. Et harum quidem rerum facilis expedita distinctio.'
+      description: 'We help sellers stand out with tools that build trust, visibility, and a unique brand presence.'
     },
     {
       icon: <FcPositiveDynamic className=" mb-4 transition-all duration-300 ease-in-out stroke-orange-500 group-hover:stroke-white group-hover:fill-white"/>,
       title: 'Dynamic Growth',
-      description: 'Nam libero tempore cum quibusdam nobis. Et harum quidem rerum facilis expedita distinctio.'
+      description: 'Grow with us. Our platform evolves with your business — offering new opportunities and smarter tools to scale.'
     }
   ];
   
